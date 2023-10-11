@@ -9,3 +9,4 @@ for i in range[n]:
     solucion.append(0)
     etapa: int = 0
 print(Reinas(solucion, etapa,n))
+#BUSCAR COMO GENERAR UN VECTOR DE PERMUTACIÓN EN PYTHON 
